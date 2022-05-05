@@ -1,0 +1,69 @@
+body {
+    background-color:rgb(2, 86, 165);
+    background-image:url(/images/bg2.jpg);
+    background-size: cover;
+    /* height: 100%;
+    width: 100%; */
+    align-items: center;
+    }
+
+p {
+    text-align: center;
+}
+
+h1 {
+    font-size: 55px;
+    font-style: italic;
+    text-shadow: 5px 1px 3px rgb(199, 196, 243);
+}
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    color: black;
+    text-align: center;
+    text-shadow: 5px 1px 3px rgb(177, 155, 250);
+}
+
+span {
+    color: #120444;
+}
+
+.btn {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    color:white;
+    background-color: rgb(16, 2, 78);
+}
+.card{
+    background-color:rgb(17, 4, 61);
+    color:white;
+}
+.container {
+    align-items: center;
+}
+#coupencard{
+    align-items: center;
+    background-color:white;
+    color:black;
+    box-shadow:3px 3px 3px black;
+}
+#row2 {
+    font-weight: bold;
+    text-shadow: black;
+}
+#row4 {
+    font-style: italic;
+
+}
+#row3 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#imgcol{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
